@@ -1,7 +1,5 @@
 # Guardian news aggregator
 
-## Solution breakdown
-
 #### Questions
 
 1. **if you had another two days, what would you have tackled next?**
