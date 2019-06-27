@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">The Guardian</string>
+    <string name="shared_preferences_key">preferences</string>
+</resources>
